@@ -24,3 +24,8 @@ A curated list of awesome lists.
 ###数据库( Databases )
 
 - [MongoDB](https://github.com/ramnes/awesome-mongodb)
+
+###编辑器( Editor )
+
+- vim
+  - [ma6174/vim](https://github.com/ma6174/vim) - vim配置文件和插件
