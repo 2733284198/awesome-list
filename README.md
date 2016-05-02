@@ -30,3 +30,7 @@ A curated list of awesome lists.
 - vim
   - [ma6174/vim](https://github.com/ma6174/vim) - vim配置文件和插件
   - [582033/vim](https://github.com/582033/vim) - 另一个vim配置
+
+###其他( Others )
+
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
