@@ -26,10 +26,12 @@ A curated list of awesome lists.
 - [awesome-php](https://github.com/ziadoz/awesome-php)
 - [awesome-rails](https://github.com/ekremkaraca/awesome-rails)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-- [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [awesome-java](https://github.com/akullpp/awesome-java)
+- [awesome-shell](https://github.com/alebcay/awesome-shell)
+- [useful-scripts](https://github.com/oldratlee/useful-scripts)
+- [awesome-scripts](https://github.com/superhj1987/awesome-scripts)
 
 ### 数据库( Databases )
 
