@@ -22,6 +22,7 @@ A curated list of awesome lists.
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [awesome-ant-design](https://github.com/websemantics/awesome-ant-design)
 - [ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
+- [react-component](https://github.com/react-component)
 
 >**后端( Backend )**
 
