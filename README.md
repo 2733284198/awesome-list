@@ -35,6 +35,8 @@ A curated list of awesome lists.
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
 - [useful-scripts](https://github.com/oldratlee/useful-scripts)
 - [awesome-scripts](https://github.com/superhj1987/awesome-scripts)
+- [awesome-resty](https://github.com/bungle/awesome-resty)
+- [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
 
 ### 数据库( Databases )
 
