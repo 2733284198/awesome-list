@@ -57,6 +57,7 @@ A curated list of awesome lists.
 ### 工具( Tools )
 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [Best-App](https://github.com/hzlzh/Best-App)
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [ma6174/vim](https://github.com/ma6174/vim)
 - [582033/vim](https://github.com/582033/vim)
