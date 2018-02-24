@@ -38,6 +38,7 @@ A curated list of awesome lists.
 - [awesome-scripts](https://github.com/superhj1987/awesome-scripts)
 - [awesome-resty](https://github.com/bungle/awesome-resty)
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
 ### 数据库( Databases )
 
