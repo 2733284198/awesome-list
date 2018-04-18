@@ -74,6 +74,10 @@ A curated list of awesome lists.
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
+### 安全( Security )
+
+- [awesome-appsec](https://github.com/paragonie/awesome-appsec)
+
 ### 其他( Others )
 
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
