@@ -7,7 +7,8 @@ A curated list of awesome lists.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [awesome-lists](https://github.com/jnv/lists)
 - [jobbole](https://github.com/jobbole)
-- [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
 
 ### 编程语言( Programming Languages )
 
