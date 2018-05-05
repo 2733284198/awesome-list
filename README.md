@@ -9,6 +9,7 @@ A curated list of awesome lists.
 - [jobbole](https://github.com/jobbole)
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
+- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 
 ### 编程语言( Programming Languages )
 
