@@ -27,6 +27,7 @@ A curated list of awesome lists.
 - [awesome-ant-design](https://github.com/websemantics/awesome-ant-design)
 - [ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
 - [react-component](https://github.com/react-component)
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总
 
 >**后端( Backend )**
 
@@ -76,7 +77,6 @@ A curated list of awesome lists.
 ### 服务( Services )
 
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
-- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
 ### 安全( Security )
