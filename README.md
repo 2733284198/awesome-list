@@ -11,6 +11,7 @@ A curated list of awesome lists.
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
+- [awesome-hacking](https://github.com/sunnyelf/awesome-hacking) - 超棒黑客必备表单
 
 ### 编程语言( Programming Languages )
 
@@ -87,3 +88,4 @@ A curated list of awesome lists.
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/) - 机器学习
