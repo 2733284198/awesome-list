@@ -32,6 +32,7 @@ A curated list of awesome lists.
 >**后端( Backend )**
 
 - [awesome-php](https://github.com/ziadoz/awesome-php)
+  - [awesome-php-zh_CN](https://github.com/CraryPrimitiveMan/awesome-php-zh_CN)
 - [awesome-swoole](https://github.com/yannsun/awesome-swoole)
 - [awesome-rails](https://github.com/ekremkaraca/awesome-rails)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
