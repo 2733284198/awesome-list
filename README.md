@@ -28,6 +28,7 @@ A curated list of awesome lists.
 - [ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
 - [react-component](https://github.com/react-component)
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总
+- [knowledge](https://github.com/f2e-awesome/knowledge) - 前端技术架构图谱
 
 >**后端( Backend )**
 
