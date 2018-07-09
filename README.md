@@ -12,6 +12,7 @@ A curated list of awesome lists.
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
 - [awesome-hacking](https://github.com/sunnyelf/awesome-hacking) - 超棒黑客必备表单
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - 涉及模式
 
 ### 编程语言( Programming Languages )
 
