@@ -47,6 +47,7 @@ A curated list of awesome lists.
 - [awesome-resty](https://github.com/bungle/awesome-resty)
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - Bash 操作指南
 
 ### 数据库( Databases )
 
