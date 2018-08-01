@@ -73,6 +73,7 @@ A curated list of awesome lists.
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [ma6174/vim](https://github.com/ma6174/vim)
 - [582033/vim](https://github.com/582033/vim)
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim)
 
 ## 设计( Design )
 
