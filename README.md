@@ -74,6 +74,7 @@ A curated list of awesome lists.
 - [ma6174/vim](https://github.com/ma6174/vim)
 - [582033/vim](https://github.com/582033/vim)
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Mac 系统免费软件
 
 ## 设计( Design )
 
