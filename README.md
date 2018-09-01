@@ -13,6 +13,7 @@ A curated list of awesome lists.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 
 - [awesome-hacking](https://github.com/sunnyelf/awesome-hacking) - 超棒黑客必备表单
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - 涉及模式
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ### 编程语言( Programming Languages )
 
