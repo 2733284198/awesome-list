@@ -90,6 +90,10 @@ A curated list of awesome lists.
 
 - [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 
+### 算法( Algorithm )
+
+- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现
+
 ### 其他( Others )
 
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
