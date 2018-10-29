@@ -76,6 +76,7 @@ A curated list of awesome lists.
 - [582033/vim](https://github.com/582033/vim)
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Mac 系统免费软件
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
 
 ## 设计( Design )
 
