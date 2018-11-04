@@ -15,6 +15,10 @@ A curated list of awesome lists.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - 涉及模式
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
+### 服务器( Server )
+
+- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - Linux 系统管理的面试题; 这个仓库收集了200多道 Linux 服务器管理的面试题，涉及的面很广，着重考察基础知识。
+
 ### 编程语言( Programming Languages )
 
 >**前端( Frontend )**
