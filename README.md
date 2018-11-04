@@ -104,3 +104,4 @@ A curated list of awesome lists.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) - 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot)
+- [zeit/awesome-zeit](https://github.com/zeit/awesome-zeit) - The best resources related to ZEIT https://zeit.co
